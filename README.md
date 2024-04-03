@@ -3,4 +3,4 @@
 
 
 
-<a img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" width="36" height="36" alt="Figma" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taaliexx&layout=compact)](https://github.com/taaliexx/github-readme-stats)
