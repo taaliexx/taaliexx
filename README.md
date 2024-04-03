@@ -3,4 +3,4 @@
 
 
 
-<h3 align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)</h3>
+<h3 align="center"><a href="https://github.com/taaliexx/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taaliexx" alt="Top Languages"></a></h3>
